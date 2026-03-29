@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "My first post",
+    "createdAt": "2026-03-29T20:34:56.502Z"
+  },
+  {
+    "id": 2,
+    "title": "I survived",
+    "createdAt": "2026-03-29T20:38:26.293Z"
+  }
+]
